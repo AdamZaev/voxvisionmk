@@ -2589,6 +2589,11 @@ body {
   overflow-x: hidden;
 }
 
+.logo {
+    width: 150px;
+    height: 70px;
+  }
+	
 @media screen and (max-width:330px) {
 
   .itema {
