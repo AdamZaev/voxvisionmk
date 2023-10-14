@@ -1,0 +1,52 @@
+#first {
+
+    background-color: whitesmoke;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+
+.form-label {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-control {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thankyou {
+    text-align: center;
+    padding-top: 100px
+}
+  
+.tkimg {
+
+    width: 400px;
+    height: 400px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+.tkimg2 {
+
+    display: block;
+    width: 100px;
+    height: 100px;
+    
+}
+.tkbtn {
+ width: 200px;
+ height: 80px;
+position: fixed;
+ right: 50%;
+ margin-top: 50px;
+}
+
+.tkbtn:hover {
+
+    background-color: #D99058;;
+
+    }
